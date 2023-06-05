@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshrafPatel
 - 👀 I’m interested in Technology, Psychology, Video Games, History
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Projects with C#, Python and React
+- 🌱 I’m currently working 
+- 💞️ I’m looking to collaborate on Projects with C#, Python and Java
 - 📫 How to reach me ashr4fpatel@gmail.com
 
 <!---
